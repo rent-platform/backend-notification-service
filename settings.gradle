@@ -1,0 +1,4 @@
+rootProject.name = 'backend-notification-service'
+
+include 'service'
+include 'database'
